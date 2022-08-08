@@ -3,7 +3,7 @@
 - 🌱 I’m currently into Cloud Architecture and upskilling in Cloud DevOps.
 - 💞️ I’m looking to collaborate and work on projects involving AWS and GCP technologies involving the use of serverless framework, and containerization tools.
 -   My top used stacks are Aws services,Git,CI/CD, Docker, Kubernates, Microservices, Travis CI, Terraform 
-- 📫 You can reach me on email; wonderdermwin@yahoo.com and on Linkedin linkedin.com/in/wonder-agudah-784268183
+- 📫 You can reach me on email; wonderdermwin@yahoo.com and on linkedin.com/in/wonder-agudah-784268183
 
 
 <!---
